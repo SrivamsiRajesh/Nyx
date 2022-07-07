@@ -1,0 +1,291 @@
+/* Coral --> Orange */
+.coral-100{
+    color: #ffeac4 ;
+}
+.coral-200{
+    color: #fff1d8 ;
+}
+.coral-300{
+    color: #ffeac4 ;
+}
+.coral-400{
+    color: #ffe3b1 ;
+}
+.coral-500{
+    color: #ffdc9d ;
+}
+.coral-600{
+    color: #ffd589 ;
+}
+.coral-700{
+    color: #ffcf76 ;
+}
+.coral-800{
+    color: #ffc862 ;
+}
+.coral-900{
+    color: #ffc14e ;
+}
+.coral-1000{
+    color: #ffba3b ;
+}
+.coral-1100{
+    color: #ffb327 ;
+}
+.coral-1200{
+    color: #ffac14 ;
+}
+
+/* Ruby --> Red */
+.ruby-100{
+    color: #ffc4c4 ;
+}
+.ruby-200{
+    color: #ff9d9d ;
+}
+.ruby-300{
+    color: #ff6262 ;
+}
+.ruby-400{
+    color: #ff3b3b ;
+}
+.ruby-500{
+    color: #ff0000 ;
+}
+.ruby-600{
+    color: #ff1414 ;
+}
+.ruby-700{
+    color: #ff1f1f ;
+}
+.ruby-800{
+    color: #c40000 ;
+}
+.ruby-900{
+    color: #9d0000 ;
+}
+.ruby-1000{
+    color: #620000 ;
+}
+.ruby-1100{
+    color: #3b0000 ;
+}
+.ruby-1200{
+    color: #140000 ;
+}
+/* Lime --> Green */
+.lime-100{
+    color: #bbffbb ;
+}
+.lime-200{
+    color: #80ff80 ;
+}
+.lime-300{
+    color: #59ff59 ;
+}
+.lime-400{
+    color: #1eff1e ;
+}
+.lime-500{
+    color: #00ff00 ;
+}
+.lime-600{
+    color: #00e200 ;
+}
+.lime-700{
+    color: #00bb00 ;
+}
+.lime-800{
+    color: #008000 ;
+}
+.lime-900{
+    color: #005900 ;
+}
+.lime-1000{
+    color: #003b00 ;
+}
+.lime-1100{
+    color: #001e00 ;
+}
+.lime-1200{
+    color: #000a00 ;
+}
+/* Amber --> Yellow */
+.amber-100{
+    color: #ffffd8 ;
+}
+.amber-200{
+    color: #ffff9d ;
+}
+.amber-300{
+    color: #ffff59 ;
+}
+.amber-400{
+    color: #ffff1e ;
+}
+.amber-500{
+    color: #ffff00 ;
+}
+.amber-600{
+    color: #ffe200 ;
+}
+.amber-700{
+    color: #d8d800 ;
+}
+.amber-800{
+    color: #9d9d00 ;
+}
+.amber-900{
+    color: #595900 ;
+}
+.amber-1000{
+    color: #272700 ;
+}
+.amber-1100{
+    color: #0a0a00 ;
+}
+.amber-1200{
+    color: #000000 ;
+}
+/* sapphire --> Blue */
+.sapphire-100{
+    color: #6262ff ;
+}
+.sapphire-200{
+    color: #3b3bff ;
+}
+.sapphire-300{
+    color: #0000ff ;
+}
+.sapphire-400{
+    color: #1414ff ;
+}
+.sapphire-500{
+    color: #0000e2 ;
+}
+.sapphire-600{
+    color: #0000b1 ;
+}
+.sapphire-700{
+    color:  #000059 ;
+}
+.sapphire-800{
+    color: #00003b ;
+}
+.sapphire-900{
+    color: #000027 ;
+}
+.sapphire-1000{
+    color: #00000a ;
+}
+.sapphire-1100{
+    color: #000014 ;
+}
+.sapphire-1200{
+    color: #00001f ;
+}
+/* mineral --> turqoise */
+.mineral-100{
+    color: #d8d8ff ;
+}
+.mineral-200{
+    color: #E2FFF0 ;
+}
+.mineral-300{
+    color: #E9F6EF ;
+}
+.mineral-400{
+    color: #EAF0EE ;
+}
+.mineral-500{
+    color: #9EFFC2 ;
+}
+.mineral-600{
+    color: #7FFF9D ;
+}
+.mineral-700{
+    color: #5FFF7F ;
+}
+.mineral-800{
+    color: #65FF9F;
+}
+.mineral-900{
+    color: #40E0D0 ;
+}
+.mineral-1000{
+    color: #00B0A0 ;
+}
+.mineral-1100{
+    color: #007070 ;
+}
+.mineral-1200{
+    color: #004040 ;
+}
+/* lilac --> purple/violet */
+.lilac-100{
+    color: #ffd8ff ;
+}
+.lilac-200{
+    color: #ff9dff ;
+}
+.lilac-300{
+    color: #ffa7ff ;
+}
+.lilac-400{
+    color: #ffb3ff ;
+}
+.lilac-500{
+    color: #e200e2 ;
+}
+.lilac-600{
+    color: #b100b1 ;
+}
+.lilac-700{
+    color: #800080 ;
+}
+.lilac-800{
+    color: #450045 ;
+}
+.lilac-900{
+    color: #270027 ;
+}
+.lilac-1000{
+    color: #1e001e ;
+}
+.lilac-1100{
+    color: #0a000a ;
+}
+.lilac-1200{
+    color: #140014 ;
+}
+/* ink --> Black  */
+.ink-100{
+    color: #adadad ;
+}
+.ink-200{
+    color: #8c8c8c ;
+}
+.ink-300{
+    color: #737373 ;
+}
+.ink-400{
+    color: #5a5a5a ;
+}
+.ink-500{
+    color: #3b3b3b ;
+}
+.ink-600{
+    color: #272727 ;
+}
+.ink-700{
+    color: #333333 ;
+}
+.ink-800{
+    color: #1e1e1e ;
+}
+.ink-900{
+    color: #0a0a0a ;
+}
+.ink-1000{
+    color: #000000 ;
+}
