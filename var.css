@@ -1,0 +1,199 @@
+:root {
+    --rose-100:#ffd8ff ;
+    --rose-200: #fdc2cd ;
+    --rose-300: #fca7b9;
+    --rose-400: #f988a2;
+    --rose-500: #f75f8d;
+    --rose-600: #f53f7f;
+    --rose-700: #f42c6e;
+    --rose-800: #f31a5e;
+    --rose-900: #f20a4e;
+    --rose-1000:#f20952;
+    --rose-1100:#f20a4e;
+    --rose-1200:#f20a4e;
+/* Coral --> Orange */
+ --coral-100: #ffeac4 ;
+ --coral-200: #fff1d8;
+--coral-300: #ffeac4;
+--coral-400: #ffd8ff;
+--coral-500 : #ffdc9d ;
+
+--coral-600: #ffd589 ;
+--coral-700: #ffcf76 ;
+
+--coral-800: #ffc862 ;
+
+--coral-900 : #ffc14e ;
+
+--coral-1000: #ffba3b ;
+
+--coral-1100: #ffb327 ;
+
+--coral-1200 : #ffac14 ;
+/* Ruby --> Red  */
+--ruby-100 : #ffc4c4 ;
+
+--ruby-200: #ff9d9d ;
+
+--ruby-300: #ff6262 ;
+
+--ruby-400 : #ff3b3b ;
+
+--ruby-500 : #ff0000 ;
+
+--ruby-600: #ff1414 ;
+
+--ruby-700 : #ff1f1f ;
+
+--ruby-800 : #c40000 ;
+--ruby-900 : #9d0000 ;
+
+--ruby-1000 : #620000 ;
+
+--ruby-1100: #3b0000 ;
+
+--ruby-1200 : #140000 ;
+/* Lime --> Green */
+--lime-100 : #bbffbb ;
+
+--lime-200: #80ff80 ;
+
+--lime-300: #59ff59 ;
+
+--lime-400 : #1eff1e ;
+
+--lime-500: #00ff00 ;
+
+--lime-600: #00e200 ;
+
+--lime-700 : #00bb00 ;
+
+--lime-800: #008000 ;
+
+--lime-900 : #005900 ;
+--lime-1000 : #003b00 ;
+
+--lime-1100: #001e00 ;
+
+--lime-1200 : #000a00 ;
+/* Amber --> Yellow */
+--amber-100: #ffffd8 ;
+
+--amber-200: #ffff9d ;
+
+--amber-300: #ffff59 ;
+
+--amber-400: #ffff1e ;
+
+--amber-500: #ffff00 ;
+
+--amber-600: #ffe200 ;
+
+--amber-700: #d8d800 ;
+
+--amber-800: #9d9d00 ;
+
+--amber-900: #595900 ;
+
+--amber-1000: #272700 ;
+
+--amber-1100: #0a0a00 ;
+
+--amber-1200: #000000 ;
+
+/* sapphire --> Blue */
+--sapphire-100: #6262ff ;
+
+--sapphire-200: #3b3bff ;
+
+--sapphire-300: #0000ff ;
+
+--sapphire-400: #1414ff ;
+
+--sapphire-500: #0000e2 ;
+
+--sapphire-600: #0000b1 ;
+
+--sapphire-700:  #000059 ;
+
+--sapphire-800: #00003b ;
+
+--sapphire-900: #000027 ;
+
+--sapphire-1000: #00000a ;
+
+--sapphire-1100: #000014 ;
+
+--sapphire-1200: #00001f ;
+
+/* mineral --> turqoise */
+--mineral-100: #d8d8ff ;
+
+--mineral-200: #E2FFF0 ;
+
+--mineral-300: #E9F6EF ;
+
+--mineral-400: #EAF0EE ;
+
+--mineral-500: #9EFFC2 ;
+
+--mineral-600: #7FFF9D ;
+--mineral-700: #5FFF7F ;
+
+--mineral-800: #65FF9F;
+
+--mineral-900: #40E0D0 ;
+
+--mineral-1000: #00B0A0 ;
+
+--mineral-1100 : #007070 ;
+
+--mineral-1200: #004040 ;
+
+/* lilac --> purple/violet */
+--lilac-100: #ffd8ff ;
+
+--lilac-200: #ff9dff ;
+
+--lilac-300: #ffa7ff ;
+
+--lilac-400: #ffb3ff ;
+
+--lilac-500: #e200e2 ;
+
+--lilac-600: #b100b1 ;
+
+--lilac-700: #800080 ;
+
+--lilac-800: #450045 ;
+
+--lilac-900: #270027 ;
+
+--lilac-1000 : #1e001e ;
+
+--lilac-1100: #0a000a ;
+
+--lilac-1200: #140014 ;
+
+/* ink --> Black  */
+--ink-100: #adadad ;
+
+--ink-200: #8c8c8c ;
+
+--ink-300 : #737373 ;
+
+--ink-400 : #5a5a5a ;
+
+--ink-500: #3b3b3b ;
+
+--ink-600 : #272727 ;
+
+--ink-700: #333333 ;
+
+--ink-800 : #1e1e1e ;
+
+--ink-900: #0a0a0a ;
+
+--ink-1000 : #000000 ;
+
+}
